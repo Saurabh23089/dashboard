@@ -16,7 +16,7 @@ const Widgets = () => {
     // const [widgetText, setWidgetText] = useState("");
     const [currentTab, setCurrentTab] = useState("CSPM");
 
-    const categories = ["CSPM", "CSWP", "Image", "Ticket"]
+    const categories = ["CSPM", "CWPP", "Image", "Ticket"]
 
 
 

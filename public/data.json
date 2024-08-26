@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Cloud Accounts",
+        "category": "CSPM",
+        "data": {
+            "labels": ["Completed", "In Progress", "Pending"],
+            "values": [40, 35, 25]
+        }
+    },
+    {
+        "title": "Cloud Account Risk Assessments",
+        "category": "CSPM",
+        "data": {
+            "labels": ["Approved", "Rejected", "Under Review"],
+            "values": [50, 20, 30]
+        }
+    },
+    {
+        "title": "CWPP Statistics",
+        "category": "CWPP",
+        "data": {
+            "labels": ["Active", "Inactive"],
+            "values": [70, 30]
+        }
+    },
+    {
+        "title": "CWPP Breakdown",
+        "category": "CWPP",
+        "data": {
+            "labels": ["High Priority", "Medium Priority", "Low Priority"],
+            "values": [60, 25, 15]
+        }
+    },
+    {
+        "title": "Recent Images",
+        "category": "Images",
+        "data": ""
+    },
+    {
+        "title": "Gallery Overview",
+        "category": "Images",
+        "data": ""
+    },
+    {
+        "title": "Ticket Overview",
+        "category": "Tickets",
+        "data": ""
+    },
+    {
+        "title": "Support Tickets",
+        "category": "Tickets",
+        "data": ""
+    }
+]
